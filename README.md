@@ -35,3 +35,4 @@ Laurie Shaw (https://twitter.com/EightyFivePoint) form the Sports Analytics Lab 
 - Statsbomb open data: https://github.com/statsbomb/open-data
 - Wyscout event data: https://figshare.com/collections/Soccer_match_event_dataset/4415000
 
+[https://www.youtube.com/watch?v=8TrleFklEsE](https://www.youtube.com/watch?v=8TrleFklEsE)
